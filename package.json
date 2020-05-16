@@ -3,7 +3,7 @@
   "description": "Aqaab is a flexible UI Library for React built to support everything from interactive visualizations to clean and minimalist UI",
   "author": "Mohammad Omar <omar.mo.sid@gmail.com>",
   "license": "MIT",
-  "version": "0.1.7",
+  "version": "0.1.8",
   "main": "dist/index.js",
   "repository": "https://github.com/omarmosid/aqaab",
   "dependencies": {
@@ -23,6 +23,7 @@
   },
   "devDependencies": {
     "@storybook/addon-actions": "^5.3.18",
+    "@storybook/addon-docs": "^5.3.18",
     "@storybook/addon-links": "^5.3.18",
     "@storybook/addons": "^5.3.18",
     "@storybook/preset-create-react-app": "^2.1.1",

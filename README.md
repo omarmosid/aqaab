@@ -6,10 +6,12 @@ Aqaab is a flexible UI Library for React built to support everything from intera
 `npm install aqaab`
 
 ### Usage
-`import { Box } from 'aqaab'
+`import { Box } from 'aqaab'`
 
+```
 const RedBox = () => {
   return (
     <Box bg="red">Red Box</Box>
   )
-}`
+}
+```

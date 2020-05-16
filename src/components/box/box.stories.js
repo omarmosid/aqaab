@@ -5,10 +5,10 @@ export default {
   title: "Box",
 };
 
-export const RedBox = () => {
+export const Primary = () => {
   return (
     <Box variant="primary" p="20px">
-      Red box
+      Primary box
     </Box>
   )
 }
